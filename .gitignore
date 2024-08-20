@@ -13,3 +13,4 @@
 /test/Liftoff-Serverless.Tests/obj
 /test/Liftoff-Serverless.Tests/Properties
 /test/Liftoff-Serverless.Tests/appsettings.json
+/src/Liftoff-Serverless/bin/Release/net8.0
