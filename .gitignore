@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Liftoff-Serverless
+/src/Liftoff-Serverless/obj
+/src/Liftoff-Serverless/Properties
+/src/Liftoff-Serverless/appsettings.Development.json
+/src/Liftoff-Serverless/appsettings.json
+/src/Liftoff-Serverless/aws-lambda-tools-defaults.json
+/src/Liftoff-Serverless/Dockerfile
+/src/Liftoff-Serverless/Readme.md
+/test/Liftoff-Serverless.Tests/obj
+/test/Liftoff-Serverless.Tests/Properties
+/test/Liftoff-Serverless.Tests/appsettings.json
